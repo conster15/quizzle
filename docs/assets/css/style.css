@@ -21,7 +21,7 @@ body {
   margin: 1rem;
   font-family: sans-serif;
   line-height: 1.5;
-cursor: url('https://cdn.glitch.global/33771cbc-e3d4-445c-9cac-f915eb7bb34a/puzzle-cursor.png?v=1729839148334'), pointer;
+cursor: docs/assets/images/puzzle-cursor.png, pointer;
 }  
 
 h2 {
